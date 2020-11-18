@@ -1,6 +1,6 @@
 # camerafy
 
-Demo application for appscrib
+Demo application for assesment
 
 ## Getting Started
 
